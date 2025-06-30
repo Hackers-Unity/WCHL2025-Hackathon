@@ -1,6 +1,6 @@
 # 🌐 The World Computer Hacker League (WCHL2025)
 
-![WCHL Banner](your-image-file-name.jpg) <!-- Replace this with your uploaded image file name -->
+![WCHL Banner](https://github.com/Hackers-Unity/WCHL2025-Hackathon/blob/main/WCHL.jpeg) <!-- Replace this with your uploaded image file name -->
 
 ---
 
